@@ -10,3 +10,5 @@ By the end of this module, you will be able to:
     MO 5.3 Plot regression lines with Seaborn (supports CO3, CO4, CO5)
     MO 5.4 Create maps with Folium and geojson files (supports CO1, CO2, CO3, CO4)
     MO 5.9 Customizing Folium maps using data (supports CO1, CO2, CO3, CO4, CO5)
+
+The working files will be zipped and can be used to run these notebooks
