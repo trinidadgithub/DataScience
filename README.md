@@ -8,3 +8,4 @@ The realm of data science
 * VisualizingDataReadingAnalyzingFiles - This work covers the display of statistical data on maps using the Folium module
 * NaturalLanguageProcessing-MachineLearning - Natural Language processing using TextBlob.  Machine Learning using scikit-learn.
 * RelationAndDocumentOrientedDatabases - Setting a mongoDB free tier account, analyzing a local json database.
+* AnalyzingAsteroidData - A study conducted to analyze the NASA Jet Propulsion small-body database of asteroid data.
