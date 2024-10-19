@@ -1,0 +1,2778 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 136,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_PG3DAEACAAJ",
+      "etag": "+lvBkNfBKKQ",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/_PG3DAEACAAJ",
+      "volumeInfo": {
+        "title": "Expert Python Programming, Second Edition",
+        "authors": [
+          "Michal Jaworski",
+          "Tarek Ziade"
+        ],
+        "publisher": "Packt Publishing",
+        "publishedDate": "2016-05-20",
+        "description": "Become an ace Python programmer by learning best coding practices and advance-level concepts with Python 3.5About This Book- Based on the latest stable version of Python (version 3.5)- Creating well manageable code that will run in various environments with different sets of dependencies- Packed with advanced concepts and best practices to write efficient Python codeWho This Book Is ForThe book would appeal to web developers and Python programmers who want to start using version 3.5 and write code efficiently. Basic knowledge of Python programming is expected.What You Will Learn- Conventions and best practices that are widely adopted in the python community- Package python code effectively for community and production use- Easy and lightweight ways to automate code deployment on remote systems- Improve your code's quality, reliability, and performance- Write concurrent code in python- Extend python with code written in different languagesIn DetailPython is a dynamic programming language, used in a wide range of domains by programmers who find it simple, yet powerful. Even if you find writing Python code easy, writing code that is efficient and easy to maintain and reuse is a challenge.The focus of the book is to familiarize you with common conventions, best practices, useful tools and standards used by python professionals on a daily basis when working with code.You will begin with knowing new features in Python 3.5 and quick tricks for improving productivity. Next, you will learn advanced and useful python syntax elements brought to this new version. Using advanced object-oriented concepts and mechanisms available in python, you will learn different approaches to implement metaprogramming. You will learn to choose good names, write packages, and create standalone executables easily.You will also be using some powerful tools such as buildout and vitualenv to release and deploy the code on remote servers for production use. Moving on, you will learn to effectively create Python extensions with C, C++, cython, and pyrex. The important factors while writing code such as code management tools, writing clear documentation, and test-driven development are also covered.You will now dive deeper to make your code efficient with general rules of optimization, strategies for finding bottlenecks, and selected tools for application optimization.By the end of the book, you will be an expert in writing efficient and maintainable code.Style and approach An easy-to-follow guide that covers industry followed best practices in Python programming",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1785886851"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785886850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_PG3DAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_PG3DAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=_PG3DAEACAAJ&dq=subject:python&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_PG3DAEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Expert_Python_Programming_Second_Edition.html?hl=&id=_PG3DAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_PG3DAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2tObAgAAQBAJ",
+      "etag": "c8p8L5UdvFU",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/2tObAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Jython Essentials",
+        "authors": [
+          "Samuele Pedroni",
+          "Noel Rappin"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2002",
+        "description": "Explains how to use Jython to blend the interactive qualities of Python with the pre-existing libraries and classes of Java, covering topics including flow control, objects, modules, and functions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596002473"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596002475"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 277,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2tObAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2tObAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=2tObAgAAQBAJ&printsec=frontcover&dq=subject:python&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2tObAgAAQBAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jython_Essentials.html?hl=&id=2tObAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2tObAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1KUMswEACAAJ",
+      "etag": "Myxf7rThQys",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/1KUMswEACAAJ",
+      "volumeInfo": {
+        "title": "Python 3 Object-Oriented Programming - Second Edition",
+        "authors": [
+          "Dusty Phillips"
+        ],
+        "publisher": "Packt Publishing",
+        "publishedDate": "2015-08-20",
+        "description": "Unleash the power of Python 3 objectsAbout This Book• Stop writing scripts and start architecting programs• Learn the latest Python syntax and libraries• A practical, hands-on tutorial that teaches you all about abstract design patterns and how to implement them in Python 3Who This Book Is ForIf you're new to object-oriented programming techniques, or if you have basic Python skills and wish to learn in depth how and when to correctly apply object-oriented programming in Python to design software, this is the book for you.What You Will Learn• Implement objects in Python by creating classes and defining methods• Separate related objects into a taxonomy of classes and describe the properties and behaviors of those objects via the class interface• Extend class functionality using inheritance• Understand when to use object-oriented features, and more importantly when not to use them• Discover what design patterns are and why they are different in Python• Uncover the simplicity of unit testing and why it's so important in Python• Grasp common concurrency techniques and pitfalls in Python 3• Exploit object-oriented programming in key Python technologies such as Kivy and Django.• Object-oriented programming concurrently with asyncioIn DetailPython 3 is more versatile and easier to use than ever. It runs on all major platforms in a huge array of use cases. Coding in Python minimizes development time and increases productivity in comparison to other languages. Clean, maintainable code is easy to both read and write using Python's clear, concise syntax.Object-oriented programming is a popular design paradigm in which data and behaviors are encapsulated in such a way that they can be manipulated together. Many modern programming languages utilize the powerful concepts behind object-oriented programming and Python is no exception.Starting with a detailed analysis of object-oriented analysis and design, you will use the Python programming language to clearly grasp key concepts from the object-oriented paradigm. This book fully explains classes, data encapsulation, inheritance, polymorphism, abstraction, and exceptions with an emphasis on when you can use each principle to develop well-designed software.You'll get an in-depth analysis of many common object-oriented design patterns that are more suitable to Python's unique style. This book will not just teach Python syntax, but will also build your confidence in how to program.You will also learn how to create maintainable applications by studying higher level design patterns. Following this, you'll learn the complexities of string and file manipulation, and how Python distinguishes between binary and textual data. Not one, but two very powerful automated testing systems will be introduced in the book. After you discover the joy of unit testing and just how easy it can be, you'll study higher level libraries such as database connectors and GUI toolkits and learn how they uniquely apply object-oriented principles. You'll learn how these principles will allow you to make greater use of key members of the Python eco-system such as Django and Kivy.This new edition includes all the topics that made Python 3 Object-oriented Programming an instant Packt classic. It's also packed with updated content to reflect recent changes in the core Python library and covers modern third-party packages that were not available on the Python 3 platform when the book was first published.Style and approachThroughout the book you will learn key object-oriented programming techniques demonstrated by comprehensive case studies in the context of a larger project.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1784398780"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781784398781"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1KUMswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1KUMswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=1KUMswEACAAJ&dq=subject:python&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1KUMswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_3_Object_Oriented_Programming_Sec.html?hl=&id=1KUMswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1KUMswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xUtsAQAAQBAJ",
+      "etag": "ZmiY5uIZs14",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/xUtsAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn Python the Hard Way",
+        "subtitle": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
+        "authors": [
+          "Zed Shaw"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2014",
+        "description": "You Will Learn Python! Zed Shaw has perfected the world's best system for learning Python. Follow it and you will succeed-just like the hundreds of thousands of beginners Zed has taught to date! You bring the discipline, commitment, and persistence; the author supplies everything else. In Learn Python the Hard Way, Third Edition, you'll learn Python by working through 52 brilliantly crafted exercises. Read them. Type their code precisely. (No copying and pasting!) Fix your mistakes. Watch the programs run. As you do, you'll learn how software works; what good programs look like; how to read, write, and think about code; and how to find and fix your mistakes using tricks professional programmers use. Most importantly, you'll learn the following, which you need to start writing excellent Python software of your own: Installing a complete Python environment Organizing and writing code Basic mathematics Variables Strings and text Interacting with users Working with files Looping and logic Data structures using lists and dictionaries Program design Object-oriented programming Inheritance and composition Modules, classes, and objects Python packaging Debugging Automated testing Basic game development Basic web development It'll be hard at first. But soon, you'll just get it-and that will feel great! This tutorial will reward you for every minute you put into it. Soon, you'll know one of the world's most powerful, popular programming languages. You'll be a Python programmer. Watch Zed, too! The accompanying DVD contains 5+ hours of passionate, powerful teaching: a complete Python video course!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321884916"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0321884914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xUtsAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xUtsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=xUtsAQAAQBAJ&printsec=frontcover&dq=subject:python&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xUtsAQAAQBAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learn_Python_the_Hard_Way.html?hl=&id=xUtsAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xUtsAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FrCgDgAAQBAJ",
+      "etag": "pizAFtV3Gmk",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/FrCgDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Python in a Nutshell",
+        "subtitle": "A Desktop Quick Reference",
+        "authors": [
+          "Alex Martelli",
+          "Anna Ravenscroft",
+          "Steve Holden"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2017-04-07",
+        "description": "This book provides a quick reference to the language, including Python 3.5, 2.7 and highlights of 3.6. It covers a wide range of application areas, including web and network programming, XML handling, database interactions, and high-speed numeric computing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491913864"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "149191386X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 772,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FrCgDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FrCgDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=FrCgDgAAQBAJ&printsec=frontcover&dq=subject:python&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FrCgDgAAQBAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_in_a_Nutshell.html?hl=&id=FrCgDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FrCgDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QOJRrgEACAAJ",
+      "etag": "kt2sCiYVwvE",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/QOJRrgEACAAJ",
+      "volumeInfo": {
+        "title": "Learning Pandas",
+        "authors": [
+          "Michael Heydt"
+        ],
+        "publishedDate": "2015-03-31",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1783985127"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783985128"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 504,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QOJRrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QOJRrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=QOJRrgEACAAJ&dq=subject:python&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QOJRrgEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Pandas.html?hl=&id=QOJRrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QOJRrgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lKvyxQEACAAJ",
+      "etag": "aPalQiJz9kg",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/lKvyxQEACAAJ",
+      "volumeInfo": {
+        "title": "Practical Numerical and Scientific Computing with MATLAB® and Python",
+        "authors": [
+          "Eihab B. M. Bashier"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2020",
+        "description": "Practical Numerical and Scientific Computing with MATLAB(R) and Python concentrates on the practical aspects of numerical analysis and linear and non-linear programming. It discusses the methods for solving different types of mathematical problems using MATLAB and Python. Although the book focuses on the approximation problem rather than on error analysis of mathematical problems, it provides practical ways to calculate errors. The book is divided into three parts, covering topics in numerical linear algebra, methods of interpolation, numerical differentiation and integration, solutions of differential equations, linear and non-linear programming problems, and optimal control problems. This book has the following advantages: It adopts the programming languages, MATLAB and Python, which are widely used among academics, scientists, and engineers, for ease of use and contain many libraries covering many scientific and engineering fields. It contains topics that are rarely found in other numerical analysis books, such as ill-conditioned linear systems and methods of regularization to stabilize their solutions, nonstandard finite differences methods for solutions of ordinary differential equations, and the computations of the optimal controls. It provides a practical explanation of how to apply these topics using MATLAB and Python. It discusses software libraries to solve mathematical problems, such as software Gekko, pulp, and pyomo. These libraries use Python for solutions to differential equations and static and dynamic optimization problems. Most programs in the book can be applied in versions prior to MATLAB 2017b and Python 3.7.4 without the need to modify these programs. This book is aimed at newcomers and middle-level students, as well as members of the scientific community who are interested in solving math problems using MATLAB or Python.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0367076691"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780367076696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "MATLAB."
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lKvyxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lKvyxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=lKvyxQEACAAJ&dq=subject:python&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lKvyxQEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Practical_Numerical_and_Scientific_Compu.html?hl=&id=lKvyxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lKvyxQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yo3CAQAACAAJ",
+      "etag": "5kJ3fZQ0UVs",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/Yo3CAQAACAAJ",
+      "volumeInfo": {
+        "title": "Deep Learning with Python",
+        "authors": [
+          "Francois Chollet"
+        ],
+        "publisher": "Manning Publications",
+        "publishedDate": "2017-10-28",
+        "description": "Summary Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher Fran�ois Chollet, this book builds your understanding through intuitive explanations and practical examples. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the Technology Machine learning has made remarkable progress in recent years. We went from near-unusable speech and image recognition, to near-human accuracy. We went from machines that couldn't beat a serious Go player, to defeating a world champion. Behind this progress is deep learning--a combination of engineering advances, best practices, and theory that enables a wealth of previously impossible smart applications. About the Book Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher Fran�ois Chollet, this book builds your understanding through intuitive explanations and practical examples. You'll explore challenging concepts and practice with applications in computer vision, natural-language processing, and generative models. By the time you finish, you'll have the knowledge and hands-on skills to apply deep learning in your own projects. What's Inside Deep learning from first principles Setting up your own deep-learning environment Image-classification models Deep learning for text and sequences Neural style transfer, text generation, and image generation About the Reader Readers need intermediate Python skills. No previous experience with Keras, TensorFlow, or machine learning is required. About the Author Fran�ois Chollet works on deep learning at Google in Mountain View, CA. He is the creator of the Keras deep-learning library, as well as a contributor to the TensorFlow machine-learning framework. He also does deep-learning research, with a focus on computer vision and the application of machine learning to formal reasoning. His papers have been published at major conferences in the field, including the Conference on Computer Vision and Pattern Recognition (CVPR), the Conference and Workshop on Neural Information Processing Systems (NIPS), the International Conference on Learning Representations (ICLR), and others. Table of Contents PART 1 - FUNDAMENTALS OF DEEP LEARNING What is deep learning? Before we begin: the mathematical building blocks of neural networks Getting started with neural networks Fundamentals of machine learning PART 2 - DEEP LEARNING IN PRACTICE Deep learning for computer vision Deep learning for text and sequences Advanced deep-learning best practices Generative deep learning Conclusions appendix A - Installing Keras and its dependencies on Ubuntu appendix B - Running Jupyter notebooks on an EC2 GPU instance",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1617294438"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781617294433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Machine learning"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yo3CAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yo3CAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=Yo3CAQAACAAJ&dq=subject:python&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Yo3CAQAACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Learning_with_Python.html?hl=&id=Yo3CAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yo3CAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q4LtdR0cAiYC",
+      "etag": "s+EyfdDTLwQ",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/q4LtdR0cAiYC",
+      "volumeInfo": {
+        "title": "Python Pocket Reference",
+        "authors": [
+          "Mark Lutz"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2002",
+        "description": "This book is a companion volume to two O'Reilly Animal Guides, \" Programming Python\" and \"Learning Python.\" It summarizes Python statements and types, built-in functions, commonly used library modules, and other prominent Python language features. This pocket reference covers the latest Python release and complements Python's online reference material.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0596001894"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596001896"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q4LtdR0cAiYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q4LtdR0cAiYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=q4LtdR0cAiYC&printsec=frontcover&dq=subject:python&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=q4LtdR0cAiYC&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Pocket_Reference.html?hl=&id=q4LtdR0cAiYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q4LtdR0cAiYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DSzesgEACAAJ",
+      "etag": "0EiCIjTkabQ",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/DSzesgEACAAJ",
+      "volumeInfo": {
+        "title": "Numpy Beginner's Guide",
+        "subtitle": "Build Efficient, High-speed Programs Using the High-performance Numpy Mathematical Library",
+        "authors": [
+          "Ivan Idris"
+        ],
+        "publishedDate": "2015-06-24",
+        "description": "This book is for the scientists, engineers, programmers, or analysts looking for a high-quality, open source mathematical library. Knowledge of Python is assumed. Also, some affinity, or at least interest, in mathematics and statistics is required. However, I have provided brief explanations and pointers to learning resources.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1785281968"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785281969"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DSzesgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DSzesgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=DSzesgEACAAJ&dq=subject:python&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DSzesgEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Numpy_Beginner_s_Guide.html?hl=&id=DSzesgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DSzesgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x5jKsgEACAAJ",
+      "etag": "qqwuMY57JAs",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/x5jKsgEACAAJ",
+      "volumeInfo": {
+        "title": "Mastering Matplotlib",
+        "authors": [
+          "Duncan M. McGreggor"
+        ],
+        "publishedDate": "2015",
+        "description": "If you are a scientist, programmer, software engineer, or student who has working knowledge of matplotlib and now want to extend your usage of matplotlib to plot complex graphs and charts and handle large datasets, then this book is for you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1783987545"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783987542"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x5jKsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x5jKsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=x5jKsgEACAAJ&dq=subject:python&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x5jKsgEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Matplotlib.html?hl=&id=x5jKsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x5jKsgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p1ZpmAEACAAJ",
+      "etag": "rQs2GeIpeDw",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/p1ZpmAEACAAJ",
+      "volumeInfo": {
+        "title": "Python 3 Object Oriented Programming",
+        "subtitle": "Harness the Power of Python 3 Objects",
+        "authors": [
+          "Dusty Phillips"
+        ],
+        "publisher": "Packt Pub Limited",
+        "publishedDate": "2010",
+        "description": "The book begins with the very foundations of OOP and then uses practical examples to show how to correctly implement Object Oriented Programming in Python. Many examples are taken from real-world projects. The book focuses on high-level design as well as the gritty details of the Python syntax. The provided exercises inspire the reader to think about his or her own code, rather than providing solved problems. If you're new to Object Oriented Programming techniques, or if you have basic Python skills and wish to learn in depth how and when to correctly apply Object Oriented Programming in Python, this is the book for you. If you are an object-oriented programmer for other languages, you too will find this book a useful introduction to Python, as it uses terminology you are already familiar with. Python 2 programmers seeking a leg up in the new world of Python 3 will also find the book beneficial, and you need not necessarily know Python 2.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1849511268"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781849511261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p1ZpmAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p1ZpmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=p1ZpmAEACAAJ&dq=subject:python&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p1ZpmAEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_3_Object_Oriented_Programming.html?hl=&id=p1ZpmAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p1ZpmAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NJ0MswEACAAJ",
+      "etag": "3feiDumLL3o",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/NJ0MswEACAAJ",
+      "volumeInfo": {
+        "title": "Learning Object-Oriented Programming",
+        "authors": [
+          "Gaston C. Hillar"
+        ],
+        "publishedDate": "2015-07-16",
+        "description": "If you're a Python, JavaScript, or C# developer and want to learn the basics of object-oriented programming with real-world examples, then this book is for you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1785289632"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785289637"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NJ0MswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NJ0MswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=NJ0MswEACAAJ&dq=subject:python&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NJ0MswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Object_Oriented_Programming.html?hl=&id=NJ0MswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NJ0MswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2NzuKZznqUIC",
+      "etag": "3xDmBRsSRaM",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/2NzuKZznqUIC",
+      "volumeInfo": {
+        "title": "Python Programming in Context",
+        "authors": [
+          "Bradley N. Miller",
+          "David L. Ranum"
+        ],
+        "publisher": "Jones & Bartlett Publishers",
+        "publishedDate": "2013-02-01",
+        "description": "The user-friendly, object-oriented programming language Python is quickly becoming the most popular introductory programming language for both students and instructors. This updated Second Edition of Python Programming in Context provides a comprehensive, accessible introduction to Python fundamentals. An ideal first language for learners entering the rapidly expanding field of computer science, Python gives students a solid platform of key problem-solving skills that translate easily across programming languages. Building on essential concepts of computer science, and offering a plenitude of real-world examples, Python Programming in Context, Second Edition offers a thorough overview of multiple applied areas, including image processing, cryptography, astronomy, the Internet, and bioinformatics. The text’s emphasis on problem-solving, extrapolation, and development of independent exploration and solution-building provides students with a unique and innovative approach to learning programming. Python Programming in Context, Second Edition is the ideal introductory text for those delving into computer programming. Key Features - Utilizes Python 3 - Provides a clear, accessible, and skill-focused approach to programming with Python - Contains problem sets based on real-world examples and problem-solving rather than language features - Offers a variety of exercises that develop independent skill-building and exploration - Every new copy of the text is packaged with full student access to Turing's Craft Custom CodeLab. Customized to match the organization of the text, CodeLab offers students hands-on Python programming experience with immediate feedback. - Accompanied by a full suite of instructor support material, including solutions to the exercises in the text, downloadable source code, PowerPoint Lecture Outlines, and a complete Test Bank.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449691974"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449691978"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2NzuKZznqUIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2NzuKZznqUIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=2NzuKZznqUIC&printsec=frontcover&dq=subject:python&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2NzuKZznqUIC&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming_in_Context.html?hl=&id=2NzuKZznqUIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2NzuKZznqUIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jgAxvgAACAAJ",
+      "etag": "bx2dic/FUNQ",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/jgAxvgAACAAJ",
+      "volumeInfo": {
+        "title": "Python Programming",
+        "subtitle": "A Complete Guide for Beginners to Master and Become an Expert in Python Programming Language",
+        "authors": [
+          "Brian Draper",
+          "Conjoint Senior Lecturer School of Psychiatry and School of Community Medicine Brian Draper, Dr"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-10-12",
+        "description": "Learn Python Programming Fast, Easily And In A Fun Way, Starting From The Basics And Become An Expert In No Time! If You Are New To Python Programming And Want To Start From A Solid Foundation, This Book Is For You!'Python Programming: A Complete Guide For Beginners To Master And Become An Expert In Python Programming Language' is a complete guide, covering all the basic concepts in depth, and takes you to an advanced level with simple to understand, follow and learn examples and explanations. Learn Python The Easy And Smart Way A Preview Of What You Will Learn: The Importance and Various Features of Python Introduction to keywords and identifiers Python Statements, Indentations and Comments How to Install and Run Python in Mac OS. Linux and Microsoft Concept of Variables and Different Data Types Input, Out and Import Operations Using Loop Statements in Python Python Functions Study of Objects and Classes Inheritance in Python File Handling Operations Study of Modulea, Tuples, Lists and Dictionary And Much, Much More!!! Python is the most easiest and powerful programming language to master as it is designed keeping simplicity in mind and can be used to develop almost all kinds of apps and software programs. This makes Python Programming very interactive and popular among computer programmers.So What Are You Waiting For? Get Your Copy Today",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1539434370"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781539434375"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jgAxvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jgAxvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=jgAxvgAACAAJ&dq=subject:python&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jgAxvgAACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming.html?hl=&id=jgAxvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jgAxvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OIuGtgEACAAJ",
+      "etag": "F9EoXL5LUBs",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/OIuGtgEACAAJ",
+      "volumeInfo": {
+        "title": "Programming Bitcoin",
+        "subtitle": "Learn How to Program Bitcoin from Scratch",
+        "authors": [
+          "Jimmy Song"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2019-03-15",
+        "description": "Dive into Bitcoin technology with this hands-on guide from one of the leading teachers on Bitcoin and Bitcoin programming. Author Jimmy Song shows Python programmers and developers how to program a Bitcoin library from scratch. You'll learn how to work with the basics, including the math, blocks, network, and transactions behind this popular cryptocurrency and its blockchain payment system. By the end of the book, you'll understand how this cryptocurrency works under the hood by coding all the components necessary for a Bitcoin library. Learn how to create transactions, get the data you need from peers, and send transactions over the network. Whether you're exploring Bitcoin applications for your company or considering a new career path, this practical book will get you started. Parse, validate, and create bitcoin transactions Learn how to use the Bitcoin Script smart contract language Work with exercises in each chapter to build a Bitcoin library from scratch Understand how to secure a blockchain by verifying proof of work Program Bitcoin using Python 3 and libraries including pycoin Understand how simplified payment verification and light wallets work Work with public-key cryptography and cryptographic primitives",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1492031496"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492031499"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OIuGtgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OIuGtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=OIuGtgEACAAJ&dq=subject:python&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OIuGtgEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Bitcoin.html?hl=&id=OIuGtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OIuGtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0XEgswEACAAJ",
+      "etag": "ZEpa6D3nKOQ",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/0XEgswEACAAJ",
+      "volumeInfo": {
+        "title": "Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours",
+        "authors": [
+          "Richard Blum",
+          "Christine Bresnahan"
+        ],
+        "publisher": "Sams Publishing",
+        "publishedDate": "2015-12-23",
+        "description": "In just 24 sessions of one hour or less, Sams Teach Yourself Python Programming for Raspberry Pi in 24 Hours teaches you Python programming on Raspberry Pi, so you can start creating awesome projects for home automation, home theater, gaming, and more. Using this book's straightforward, step-by-step approach, you'll move from the absolute basics all the way through network and web connections, multimedia, and even connecting with electronic circuits for sensing and robotics. Every lesson and case study application builds on what you've already learned, giving you a rock-solid foundation for real-world success! Step-by-step instructions carefully walk you through the most common Raspberry Pi Python programming tasks. Quizzes at the end of each chapter help you test your knowledge. By the Way notes present interesting information related to the discussion. Did You Know? tips offer advice or show you easier ways to perform tasks. Watch Out! cautions alert you to possible problems and give you advice on how to avoid them. Get your Raspberry Pi and choose the right low-cost peripherals Set up Raspian Linux and the Python programming environment Learn Python basics, including arithmetic and structured commands Master Python 3 lists, tuples, dictionaries, sets, strings, files, and modules Reuse the same Python code in multiple locations with functions Manipulate string data efficiently with regular expressions Practice simple object-oriented programming techniques Use exception handling to make your code more reliable Program modern graphical user interfaces with Raspberry Pi and OpenGL Create Raspberry Pi games with the PyGame library Learn network, web, and database techniques you can also use in business software Write Python scripts that send email Interact with other devices through Raspberry Pi's GPIO interface Walk through example Raspberry Pi projects that inspire you to do even more",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0672337649"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780672337642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0XEgswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0XEgswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=0XEgswEACAAJ&dq=subject:python&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0XEgswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming_for_Raspberry_Pi_Sams.html?hl=&id=0XEgswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0XEgswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aTNNdz5TEd4C",
+      "etag": "CP26W/OlTMs",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/aTNNdz5TEd4C",
+      "volumeInfo": {
+        "title": "Python and AWS Cookbook",
+        "authors": [
+          "Mitch Garnaat"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-10-31",
+        "description": "This book focuses on Elastic Compute Cloud (EC2) and Simple Storage Service (S3) for developers writing in Python.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449305444"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "144930544X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aTNNdz5TEd4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aTNNdz5TEd4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=aTNNdz5TEd4C&printsec=frontcover&dq=subject:python&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aTNNdz5TEd4C&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_and_AWS_Cookbook.html?hl=&id=aTNNdz5TEd4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aTNNdz5TEd4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yS_2swEACAAJ",
+      "etag": "x62MEacBaRw",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/yS_2swEACAAJ",
+      "volumeInfo": {
+        "title": "NumPy 1.5",
+        "subtitle": "Beginner's Guide",
+        "authors": [
+          "Ivan Idris"
+        ],
+        "publisher": "Packt Pub Limited",
+        "publishedDate": "2011",
+        "description": "The book is written in beginner's guide style with each aspect of NumPy demonstrated by real world examples. There is appropriate explained code with the required screenshots thrown in for the novice. This book is for the programmer, scientist or engineer, who has basic Python knowledge and would like to be able to do numerical computations with Python.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1849515301"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781849515306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yS_2swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yS_2swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=yS_2swEACAAJ&dq=subject:python&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yS_2swEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/NumPy_1_5.html?hl=&id=yS_2swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yS_2swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XaqZtAEACAAJ",
+      "etag": "YkcKHt3WQPw",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/XaqZtAEACAAJ",
+      "volumeInfo": {
+        "title": "Python Interviews",
+        "subtitle": "Discussions with Python Experts",
+        "authors": [
+          "Michael Driscoll"
+        ],
+        "publishedDate": "2018-02-28",
+        "description": "Mike Driscoll takes you on a journey talking to a hall-of-fame list of truly remarkable Python experts. You'll be inspired every time by their passion for the Python language, as they share with you their experiences, contributions, and careers in Python. Key Features Hear from these key Python thinkers about the current status of Python, and where it's heading in the future Listen to their close thoughts on significant Python topics, such as Python's role in scientific computing, and machine learning Understand the direction of Python, and what needs to change for Python 4 Book Description Each of these twenty Python Interviews can inspire and refresh your relationship with Python and the people who make Python what it is today. Let these interviews spark your own creativity, and discover how you also have the ability to make your mark on a thriving tech community. This book invites you to immerse in the Python landscape, and let these remarkable programmers show you how you too can connect and share with Python programmers around the world. Learn from their opinions, enjoy their stories, and use their tech tips. * Brett Cannon - former director of the PSF, Python core developer, led the migration to Python 3. * Steve Holden - tireless Python promoter and former chairman and director of the PSF. * Carol Willing - former director of the PSF and Python core developer, Project Jupyter Steering Council member. * Nick Coghlan - founding member of the PSF's Packaging Working Group and Python core developer. * Jessica McKellar - former director of the PSF and Python activist. * Marc-André Lemburg - Python core developer and founding member of the PSF. * Glyph Lefkowitz - founder of Twisted and fellow of the PSF * Doug Hellmann - fellow of the PSF, creator of the Python Module of the Week blog, Python community member since 1998. * Massimo Di Pierro - fellow of the PSF, data scientist and the inventor of web2py. * Alex Martelli - fellow of the PSF and co-author of Python in a Nutshell. * Barry Warsaw - fellow of the PSF, Python core developer since 1995, and original member of PythonLabs. * Tarek Ziadé - founder of Afpy and author of Expert Python Programming. * Sebastian Raschka - data scientist and author of Python Machine Learning. * Wesley Chun - fellow of the PSF and author of the Core Python Programming books. * Steven Lott - Python blogger and author of Python for Secret Agents. * Oliver Schoenborn - author of Pypubsub and wxPython mailing list contributor. * Al Sweigart - bestselling author of Automate the Boring Stuff with Python and creator of the Python modules Pyperclip and PyAutoGUI. * Luciano Ramalho - fellow of the PSF and the author of Fluent Python. * Mike Bayer - fellow of the PSF, creator of open source libraries including SQLAlchemy. * Jake Vanderplas - data scientist and author of Python Data Science Handbook. What you will learn How successful programmers think The history of Python Insights into the minds of the Python core team Trends in Python programming Who this book is for Python programmers and students interested in the way that Python is used - past and present - with useful anecdotes. It will also be of interest to those looking to gain insights from top programmers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1788399080"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788399081"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XaqZtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XaqZtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=XaqZtAEACAAJ&dq=subject:python&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XaqZtAEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Interviews.html?hl=&id=XaqZtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XaqZtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S7p4tAEACAAJ",
+      "etag": "M577ev8lEFU",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/S7p4tAEACAAJ",
+      "volumeInfo": {
+        "title": "Scipy Recipes",
+        "authors": [
+          "L. Felipe Martins",
+          "Ruben Oliva Ramos",
+          "V. Kishore Ayyadevara"
+        ],
+        "publishedDate": "2017-12-20",
+        "description": "Tackle the most sophisticated problems associated with scientific computing and data manipulation using SciPy Key Features Covers a wide range of data science tasks using SciPy, NumPy, pandas, and matplotlib Effective recipes on advanced scientific computations, statistics, data wrangling, data visualization, and more A must-have book if you're looking to solve your data-related problems using SciPy, on-the-go Book Description With the SciPy Stack, you get the power to effectively process, manipulate, and visualize your data using the popular Python language. Utilizing SciPy correctly can sometimes be a very tricky proposition. This book provides the right techniques so you can use SciPy to perform different data science tasks with ease. This book includes hands-on recipes for using the different components of the SciPy Stack such as NumPy, SciPy, matplotlib, and pandas, among others. You will use these libraries to solve real-world problems in linear algebra, numerical analysis, data visualization, and much more. The recipes included in the book will ensure you get a practical understanding not only of how a particular feature in SciPy Stack works, but also of its application to real-world problems. The independent nature of the recipes also ensure that you can pick up any one and learn about a particular feature of SciPy without reading through the other recipes, thus making the book a very handy and useful guide. What you will learn Get a solid foundation in scientific computing using Python Master common tasks related to SciPy and associated libraries such as NumPy, pandas, and matplotlib Perform mathematical operations such as linear algebra and work with the statistical and probability functions in SciPy Master advanced computing such as Discrete Fourier Transform and K-means with the SciPy Stack Implement data wrangling tasks efficiently using pandas Visualize your data through various graphs and charts using matplotlib Who this book is for Python developers, aspiring data scientists, and analysts who want to get started with scientific computing using Python will find this book an indispensable resource. If you want to learn how to manipulate and visualize your data using the SciPy Stack, this book will also help you. A basic understanding of Python programming is all you need to get started.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1788291468"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788291460"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S7p4tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S7p4tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=S7p4tAEACAAJ&dq=subject:python&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=S7p4tAEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Scipy_Recipes.html?hl=&id=S7p4tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S7p4tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n4gOswEACAAJ",
+      "etag": "blw51PwF/Jw",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/n4gOswEACAAJ",
+      "volumeInfo": {
+        "title": "Mastering Probabilistic Graphical Models Using Python",
+        "authors": [
+          "Ankur Ankan",
+          "Abinash Panda"
+        ],
+        "publishedDate": "2015-07-26",
+        "description": "Master probabilistic graphical models by learning through real-world problems and illustrative code examples in PythonAbout This Book- Gain in-depth knowledge of Probabilistic Graphical Models- Model time-series problems using Dynamic Bayesian Networks- A practical guide to help you apply PGMs to real-world problemsIn DetailProbabilistic Graphical Models is a technique in machine learning that uses the concepts of graph theory to compactly represent and optimally predict values in our data problems. In real world problems, it's often difficult to select the appropriate graphical model as well as the appropriate inference algorithm, which can make a huge difference in computation time and accuracy. Thus, it is crucial to know the working details of these algorithms.This book starts with the basics of probability theory and graph theory, then goes on to discuss various models and inference algorithms. All the different types of models are discussed along with code examples to create and modify them, and also to run different inference algorithms on them. There is a complete chapter devoted to the most widely used networks Naive Bayes Model and Hidden Markov Models (HMMs). These models have been thoroughly discussed using real-world examples.What You Will Learn- Get to know the basics of Probability theory and Graph Theory- Work with Markov Networks- Implement Bayesian Networks- Exact Inference Techniques in Graphical Models such as the Variable Elimination Algorithm- Understand approximate Inference Techniques in Graphical Models such as Message Passing Algorithms- Sample algorithms in Graphical Models- Grasp details of Naive Bayes with real-world examples- Deploy PGMs using various libraries in Python- Gain working details of Hidden Markov Models with real-world examples Who This Book Is ForIf you are a researcher or a machine learning enthusiast, or are working in the data science field and have a basic idea of Bayesian Learning or Probabilistic Graphical Models, this book will help you to understand the details of Graphical Models and use it in your data science problems. This book will also help you select the appropriate model as well as the appropriate algorithm for your problem.Style and approachAn easy-to-follow guide to help you understand Probabilistic Graphical Models using simple examples and numerous code examples, with an emphasis on more widely used models.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1784394688"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781784394684"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n4gOswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n4gOswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=n4gOswEACAAJ&dq=subject:python&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=n4gOswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Probabilistic_Graphical_Models.html?hl=&id=n4gOswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n4gOswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FEO4CAAAQBAJ",
+      "etag": "x6RVtOIswEM",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/FEO4CAAAQBAJ",
+      "volumeInfo": {
+        "title": "Soil Physics with Python",
+        "subtitle": "Transport in the Soil-Plant-Atmosphere System",
+        "authors": [
+          "Marco Bittelli",
+          "Gaylon S. Campbell",
+          "Fausto Tomei"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2015",
+        "description": "This innovative study presents concepts and problems in soil physics, and provides solutions using original computer programs. It provides a close examination of physical environments of soil, including an analysis of the movement of heat, water and gases. The authors employ the programming language Python, which is now widely used for numerical problem solving in the sciences. In contrast to the majority of the literature on soil physics, this text focuses on solving, not deriving, differential equations for transport. Using numerical procedures to solve differential equations allows the solution of quite difficult problems with fairly simple mathematical tools. Numerical methods convert differential into algebraic equations, which can be solved using conventional methods of linear algebra. Each chapter introduces a soil physics concept, and proceeds to develop computer programs to solve the equations and illustrate the points made in the discussion. Problems at the end of each chapter help the reader practise using the concepts introduced. The text is suitable for advanced undergraduates, graduates and researchers of soil physics. It employs an open source philosophy where computer code is presented, explained and discussed, and provides the reader with a full understanding of the solutions. Once mastered, the code can be adapted and expanded for the user's own models, fostering further developments. The Python tools provide a simple syntax, Object Oriented Programming techniques, powerful mathematical and numerical tools, and a user friendly environment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199683093"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199683093"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FEO4CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FEO4CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=FEO4CAAAQBAJ&printsec=frontcover&dq=subject:python&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FEO4CAAAQBAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Soil_Physics_with_Python.html?hl=&id=FEO4CAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FEO4CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oQNoBgAAQBAJ",
+      "etag": "qmn77nQDMhE",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/oQNoBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Python Programming for Biology",
+        "authors": [
+          "Tim J. Stevens",
+          "Wayne Boucher"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2015-02-12",
+        "description": "This book introduces Python as a powerful tool for the investigation of problems in computational biology, for novices and experienced programmers alike.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521895835"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0521895839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 711,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oQNoBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oQNoBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=oQNoBgAAQBAJ&printsec=frontcover&dq=subject:python&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oQNoBgAAQBAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Programming_for_Biology.html?hl=&id=oQNoBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oQNoBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FTp_AQAACAAJ",
+      "etag": "6zZmzUvB4Z8",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/FTp_AQAACAAJ",
+      "volumeInfo": {
+        "title": "Raspberry Pi: Amazing Projects from Scratch",
+        "authors": [
+          "Ashwin Pajankar",
+          "Arush Kakkar",
+          "Matthew Poole",
+          "Richard Grimmett"
+        ],
+        "publishedDate": "2016-09-26",
+        "description": "Explore the powers of Raspberry Pi and build your very own projects right out of the boxAbout This Book- From robotics to gaming, this Learning Path will unlock your creativity!- Build your own impressive IoT projects to transform your home- Featuring some of Packt's very best Raspberry Pi content, this Learning Path doesn't just get you to your destination - it opens up a whole horizon of possibilities!Who This Book Is ForWant new ideas for your next Raspberry Pi project? Got one lying around gathering dust? This Learning Path gets you straight into the creative dirty work of programming and playing with your pi. Whether your new to Raspberry Pi, or an experienced maker, we think this Learning Path will inspire you and get your creative juices flowing!What You Will Learn- Discover an aweome range of Raspberry Pi projects- Bridge the gap between software and hardware through your Pi and find out how to make an operating system interact with cameras and other hardware- Find out how to use your Raspberry Pi for gaming- Secure your home with this tiny computer!- Make science fiction a reality - build a walking robotIn DetailLooking for inspiration for your next Raspberry Pi project? Not sure where to begin? This Learning Path is the perfect place to begin, providing you with an accessible yet comprehensive journey through Raspberry Pi. Following three modules, you'll soon be confident and prepared to get creative with your microcomputer.Raspberry Pi by Example is the first module in this Learning Path - and it does exactly what it says. It doesn't just teach, it shows you how to go and build some awesome Raspberry Pi projects immediately. Build and play your own games with the Pi, build a complete Internet of Things home automation system that controls your house through Twitter... let your imagination run wild!In the next module we'll look in more depth at building a home security system. You'll be using some of the skills you devoped through the first module, but apply them to something more intricate and impressive. Using a Linux based operating system as the foundations, you'll gradually build up an entire security infrastructure adding cameras, remote controls, and even intrusion alerts!In the final module, we'll take you into the world of Raspberry Pi robotics. By the end of it, you'll have built a biped robot that can interact with its environment!This Learning Path combines some of the best that Packt has to offer in one complete, curated package. It includes content from the following Packt products:- Raspberry Pi By Example by Ashwin Pajankar and Arush Kakkar- Building a Home Security System with Raspberry Pi by Matthew Pole- Raspberry Pi Robotics Essentials by Richard GrimmettStyle and approachIt's not every day you build a home automation system. It's not every day you build a walking robot. But with this Learning Path you'll do just that. So get started and let this tiny computer expand your imagination.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1787128490"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787128491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 593,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FTp_AQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FTp_AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=FTp_AQAACAAJ&dq=subject:python&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FTp_AQAACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Raspberry_Pi_Amazing_Projects_from_Scrat.html?hl=&id=FTp_AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTp_AQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5fsEswEACAAJ",
+      "etag": "Pc/EgyZkUXs",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/5fsEswEACAAJ",
+      "volumeInfo": {
+        "title": "Building Web Applications with Python and Neo4j",
+        "authors": [
+          "Sumit Gupta"
+        ],
+        "publishedDate": "2015-07-16",
+        "description": "If you are a Python developer and want to expand your understanding of Python-based web applications over Neo4j graph data models, this is the book for you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1783983981"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783983988"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5fsEswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5fsEswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=5fsEswEACAAJ&dq=subject:python&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5fsEswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_Web_Applications_with_Python_an.html?hl=&id=5fsEswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5fsEswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f4kJkAEACAAJ",
+      "etag": "xRcKWwMFjAQ",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/f4kJkAEACAAJ",
+      "volumeInfo": {
+        "title": "Python in a Nutshell",
+        "subtitle": "A Desktop Quick Reference",
+        "authors": [
+          "Alex Martelli",
+          "Anna Ravenscroft",
+          "Steve Holden"
+        ],
+        "publishedDate": "2017-05",
+        "description": "Useful in many roles, from design and prototyping to testing, deployment, and maintenance, Python is consistently ranked among today’s most popular programming languages. The third edition of this practical book provides a quick reference to the language—including Python 3.5, 2.7, and highlights of 3.6—commonly used areas of its vast standard library, and some of the most useful third-party modules and packages. Ideal for programmers with some Python experience, and those coming to Python from other programming languages, this book covers a wide range of application areas, including web and network programming, XML handling, database interactions, and high-speed numeric computing. Discover how Python provides a unique mix of elegance, simplicity, practicality, and sheer power. This edition covers: The Python language, its implementations, and the community that supports it Python syntax, Object-Oriented Python, standard library modules, and third-party Python packages Python’s support for file and text operations, persistence and databases, concurrent execution, and numeric computations Networking basics, event-driven programming, and client-side network protocol modules Python extension modules, and tools for packaging and distributing extensions, modules, and applications",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "144939292X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449392925"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 766,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f4kJkAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f4kJkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=f4kJkAEACAAJ&dq=subject:python&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=f4kJkAEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_in_a_Nutshell.html?hl=&id=f4kJkAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f4kJkAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PUnnnAAACAAJ",
+      "etag": "U6/6bpVYPJM",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/PUnnnAAACAAJ",
+      "volumeInfo": {
+        "title": "QGIS Python Programming Cookbook - Second Edition",
+        "authors": [
+          "Joel Lawhead"
+        ],
+        "publishedDate": "2017-03-31",
+        "description": "Over 140 recipes to help you turn QGIS from a desktop GIS tool into a powerful automated geospatial frameworkAbout This Book* Delve into the undocumented features of the new QGIS processing module* Get a set of user-friendly recipes that can automate the entire geospatial workflows by connecting Python GIS building blocks into comprehensive processes* This book has a complete code upgrade to QGIS 2.18 and 30 new, valuable recipesWho This Book Is ForThis book is for geospatial analysts who want to learn more about automating everyday GIS tasks as well as programmers responsible for building GIS applications. The short, reusable recipes make concepts easy to understand and combine so you can build larger applications that are easy to maintain.What You Will Learn* Use Python and QGIS to produce captivating GIS visualizations and build complex map layouts* Find out how to effectively use the poorly-documented and undocumented features of the QGIS Python API* Automate entire geospatial workflows by connecting Python GIS building blocks into comprehensive processes* Create, import, and edit geospatial data on disk or in-memory* Change QGIS settings programmatically to control default behavior* Automatically generate PDF map books* Build dynamic forms for field inputIn DetailQGIS is a desktop geographic information system that facilitates data viewing, editing, and analysis. Paired with the most efficient scripting language-Python, we can write effective scripts that extend the core functionality of QGIS.Based on the latest version QGIS 2.18, this book will teach you how to write Python code that works with spatial data to automate geoprocessing tasks in QGIS. It will cover topics such as querying and editing vector data and using raster data. You will also learn to create, edit, and optimize a vector layer for faster queries, reproject a vector layer, reduce the number of vertices in a vector layer without losing critical data, and convert a raster to a vector. Following this, you will work through recipes that will help you compose static maps, create heavily customized maps, and add specialized labels and annotations. As well as this, we'll also share a few tips and tricks based on different aspects of QGIS.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1787124835"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787124837"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 393,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PUnnnAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PUnnnAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=PUnnnAAACAAJ&dq=subject:python&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PUnnnAAACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/QGIS_Python_Programming_Cookbook_Second.html?hl=&id=PUnnnAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PUnnnAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2q6cwgEACAAJ",
+      "etag": "g/PxL5Pt4O4",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/2q6cwgEACAAJ",
+      "volumeInfo": {
+        "title": "Advanced Python Programming",
+        "subtitle": "Build High Performance, Concurrent, and Multi-Threaded Apps with Python Using Proven Design Patterns",
+        "authors": [
+          "Gabriele Lanaro",
+          "Quan Nguyen",
+          "Sakis Kasampalis"
+        ],
+        "publishedDate": "2019-02-22",
+        "description": "Create distributed applications with clever design patterns to solve complex problems Key Features Set up and run distributed algorithms on a cluster using Dask and PySpark Master skills to accurately implement concurrency in your code Gain practical experience of Python design patterns with real-world examples Book Description This Learning Path shows you how to leverage the power of both native and third-party Python libraries for building robust and responsive applications. You will learn about profilers and reactive programming, concurrency and parallelism, as well as tools for making your apps quick and efficient. You will discover how to write code for parallel architectures using TensorFlow and Theano, and use a cluster of computers for large-scale computations using technologies such as Dask and PySpark. With the knowledge of how Python design patterns work, you will be able to clone objects, secure interfaces, dynamically choose algorithms, and accomplish much more in high performance computing. By the end of this Learning Path, you will have the skills and confidence to build engaging models that quickly offer efficient solutions to your problems. This Learning Path includes content from the following Packt products: Python High Performance - Second Edition by Gabriele Lanaro Mastering Concurrency in Python by Quan Nguyen Mastering Python Design Patterns by Sakis Kasampalis What you will learn Use NumPy and pandas to import and manipulate datasets Achieve native performance with Cython and Numba Write asynchronous code using asyncio and RxPy Design highly scalable programs with application scaffolding Explore abstract methods to maintain data consistency Clone objects using the prototype pattern Use the adapter pattern to make incompatible interfaces compatible Employ the strategy pattern to dynamically choose an algorithm Who this book is for This Learning Path is specially designed for Python developers who want to build high-performance applications and learn about single core and multi-core programming, distributed concurrency, and Python design patterns. Some experience with Python programming language will help you get the most out of this Learning Path.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1838551212"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838551216"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2q6cwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2q6cwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=2q6cwgEACAAJ&dq=subject:python&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2q6cwgEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advanced_Python_Programming.html?hl=&id=2q6cwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2q6cwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a_yXngEACAAJ",
+      "etag": "UsX7cTRO7Ks",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/a_yXngEACAAJ",
+      "volumeInfo": {
+        "title": "Python and HDF5",
+        "authors": [
+          "Andrew Collette"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2013",
+        "description": "Gain hands-on experience with HDF5 for storing scientific data in Python. This practical guide quickly gets you up to speed on the details, best practices, and pitfalls of using HDF5 to archive and share numerical datasets ranging in size from gigabytes to terabytes. Through real-world examples and practical exercises, you’ll explore topics such as scientific datasets, hierarchically organized groups, user-defined metadata, and interoperable files. Examples are applicable for users of both Python 2 and Python 3. If you’re familiar with the basics of Python data analysis, this is an ideal introduction to HDF5. Get set up with HDF5 tools and create your first HDF5 file Work with datasets by learning the HDF5 Dataset object Understand advanced features like dataset chunking and compression Learn how to work with HDF5’s hierarchical structure, using groups Create self-describing files by adding metadata with HDF5 attributes Take advantage of HDF5’s type system to create interoperable files Express relationships among data with references, named types, and dimension scales Discover how Python mechanisms for writing parallel code interact with HDF5",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1449367836"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449367831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a_yXngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a_yXngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=a_yXngEACAAJ&dq=subject:python&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=a_yXngEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_and_HDF5.html?hl=&id=a_yXngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a_yXngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U4WKtgEACAAJ",
+      "etag": "T4xcksgFB8E",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/U4WKtgEACAAJ",
+      "volumeInfo": {
+        "title": "Matplotlib for Python Developers",
+        "subtitle": "Effective Techniques for Data Visualization with Python, 2nd Edition",
+        "authors": [
+          "Aldrin Yim",
+          "Allen Yu",
+          "Claire Chung"
+        ],
+        "publisher": "Packt Publishing",
+        "publishedDate": "2018-04-24",
+        "description": "Leverage the power of Matplotlib to visualize and understand your data more effectively Key Features Perform effective data visualization with Matplotlib and get actionable insights from your data Design attractive graphs, charts, and 2D plots, and deploy them to the web Get the most out of Matplotlib in this practical guide with updated code and examples Book Description Python is a general-purpose programming language increasingly being used for data analysis and visualization. Matplotlib is a popular data visualization package in Python used to design effective plots and graphs. This is a practical, hands-on resource to help you visualize data with Python using the Matplotlib library. Matplotlib for Python Developers, Second Edition shows you how to create attractive graphs, charts, and plots using Matplotlib. You will also get a quick introduction to third-party packages, Seaborn, Pandas, Basemap, and Geopandas, and learn how to use them with Matplotlib. After that, you'll embed and customize your plots in third-party tools such as GTK+3, Qt 5, and wxWidgets. You'll also be able to tweak the look and feel of your visualization with the help of practical examples provided in this book. Further on, you'll explore Matplotlib 2.1.x on the web, from a cloud-based platform using third-party packages such as Django. Finally, you will integrate interactive, real-time visualization techniques into your current workflow with the help of practical real-world examples. By the end of this book, you'll be thoroughly comfortable with using the popular Python data visualization library Matplotlib 2.1.x and leveraging its power to build attractive, insightful, and powerful visualizations. What you will learn Create 2D and 3D static plots such as bar charts, heat maps, and scatter plots Get acquainted with GTK+3, Qt5, and wxWidgets to understand the UI backend of Matplotlib Develop advanced static plots with third-party packages such as Pandas, GeoPandas, and Seaborn Create interactive plots with real-time updates Develop web-based, Matplotlib-powered graph visualizations with third-party packages such as Django Write data visualization code that is readily expandable on the cloud platform Who this book is for This book is essentially for anyone who wants to create intuitive data visualizations using the Matplotlib library. If you're a data scientist or analyst and wish to create attractive visualizations using Python, you'll find this book useful. Some knowledge of Python programming is all you need to get started.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "178862517X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788625173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U4WKtgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U4WKtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=U4WKtgEACAAJ&dq=subject:python&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=U4WKtgEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Matplotlib_for_Python_Developers.html?hl=&id=U4WKtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U4WKtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5hpNugEACAAJ",
+      "etag": "8aqcbn7kLk8",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/5hpNugEACAAJ",
+      "volumeInfo": {
+        "title": "Hands-On Recommendation Systems with Python",
+        "authors": [
+          "Rounak Banik"
+        ],
+        "publishedDate": "2018-07-27",
+        "description": "With Hands-On Recommendation Systems with Python, learn the tools and techniques required in building various kinds of powerful recommendation systems (collaborative, knowledge and content based) and deploying them to the web Key Features Build industry-standard recommender systems Only familiarity with Python is required No need to wade through complicated machine learning theory to use this book Book Description Recommendation systems are at the heart of almost every internet business today; from Facebook to Netﬂix to Amazon. Providing good recommendations, whether it's friends, movies, or groceries, goes a long way in defining user experience and enticing your customers to use your platform. This book shows you how to do just that. You will learn about the different kinds of recommenders used in the industry and see how to build them from scratch using Python. No need to wade through tons of machine learning theory--you'll get started with building and learning about recommenders as quickly as possible.. In this book, you will build an IMDB Top 250 clone, a content-based engine that works on movie metadata. You'll use collaborative filters to make use of customer behavior data, and a Hybrid Recommender that incorporates content based and collaborative filtering techniques With this book, all you need to get started with building recommendation systems is a familiarity with Python, and by the time you're fnished, you will have a great grasp of how recommenders work and be in a strong position to apply the techniques that you will learn to your own problem domains. What you will learn Get to grips with the different kinds of recommender systems Master data-wrangling techniques using the pandas library Building an IMDB Top 250 Clone Build a content based engine to recommend movies based on movie metadata Employ data-mining techniques used in building recommenders Build industry-standard collaborative filters using powerful algorithms Building Hybrid Recommenders that incorporate content based and collaborative fltering Who this book is for If you are a Python developer and want to develop applications for social networking, news personalization or smart advertising, this is the book for you. Basic knowledge of machine learning techniques will be helpful, but not mandatory.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1788993756"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788993753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5hpNugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5hpNugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=5hpNugEACAAJ&dq=subject:python&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5hpNugEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hands_On_Recommendation_Systems_with_Pyt.html?hl=&id=5hpNugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5hpNugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cG7saWrQc1oC",
+      "etag": "sEMwxYyo2N4",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/cG7saWrQc1oC",
+      "volumeInfo": {
+        "title": "Python for Bioinformatics",
+        "authors": [
+          "Jason Kinser"
+        ],
+        "publisher": "Jones & Bartlett Learning",
+        "publishedDate": "2009",
+        "description": "Python for Bioinformatics provides a clear introduction to the Python programming language and instructs beginners on the development of simple programming exercises. Important Notice: The digital edition of this book is missing some of the images or content found in the physical edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780763751869"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0763751863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 417,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cG7saWrQc1oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cG7saWrQc1oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=cG7saWrQc1oC&printsec=frontcover&dq=subject:python&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cG7saWrQc1oC&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_for_Bioinformatics.html?hl=&id=cG7saWrQc1oC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cG7saWrQc1oC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GMyzyQEACAAJ",
+      "etag": "4hW7lutM4jU",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/GMyzyQEACAAJ",
+      "volumeInfo": {
+        "title": "High Performance Python",
+        "subtitle": "Practical Performant Programming for Humans",
+        "authors": [
+          "Micha Gorelick",
+          "Ian Ozsvald"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2020-09-08",
+        "description": "Your Python code may run correctly, but you need it to run faster. By exploring the fundamental theory behind design choices, the updated edition of this practical guide, expanded and enhanced for Python 3, helps you gain a deeper understanding of Python's implementation. You'll learn how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. How can you take advantage of multicore architectures or clusters? Or build a system that can scale up and down without losing reliability? Experienced Python programmers and students alike will learn concrete solutions to these and other issues, along with war stories from companies that use high-performance Python for social media analytics, productionized machine learning, and other situations. Get a better grasp of NumPy, Cython, and profilers Learn how Python abstracts the underlying computer architecture Understand performant pandas Use profiling to find bottlenecks in CPU time and memory usage Write efficient programs by choosing appropriate data structures Speed up matrix, vector, and even tensor computations Use tools to compile Python down to machine code, on CPUs and GPUs Manage multiple I/O and computational operations concurrently Convert multiprocessing code to run on a local or remote cluster Deploy code faster using tools like Docker Solve large problems while using less RAM Get real-life stories and lessons from Python programmers",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1492055026"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492055020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GMyzyQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GMyzyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=GMyzyQEACAAJ&dq=subject:python&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GMyzyQEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/High_Performance_Python.html?hl=&id=GMyzyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GMyzyQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kn6RswEACAAJ",
+      "etag": "UnVaLCmYOTY",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/Kn6RswEACAAJ",
+      "volumeInfo": {
+        "title": "Python GUI Programming with Tkinter",
+        "authors": [
+          "Alan D. Moore"
+        ],
+        "publisher": "Packt Publishing",
+        "publishedDate": "2018-05-15",
+        "description": "Find out how to create visually stunning and feature-rich applications by empowering Python's built-in Tkinter GUI toolkit Key Features Explore Tkinter's powerful features to easily design and customize your GUI application Learn the basics of 2D and 3D animation in GUI applications. Learn to integrate stunning Data Visualizations using Tkinter Canvas and Matplotlib. Book Description Tkinter is a lightweight, portable, and easy-to-use graphical toolkit available in the Python Standard Library, widely used to build Python GUIs due to its simplicity and availability. This book teaches you to design and build graphical user interfaces that are functional, appealing, and user-friendly using the powerful combination of Python and Tkinter. After being introduced to Tkinter, you will be guided step-by-step through the application development process. Over the course of the book, your application will evolve from a simple data-entry form to a complex data management and visualization tool while maintaining a clean and robust design. In addition to building the GUI, you'll learn how to connect to external databases and network resources, test your code to avoid errors, and maximize performance using asynchronous programming. You'll make the most of Tkinter's cross-platform availability by learning how to maintain compatibility, mimic platform-native look and feel, and build executables for deployment across popular computing platforms. By the end of this book, you will have the skills and confidence to design and build powerful high-end GUI applications to solve real-world problems. What you will learn Implement the tools provided by Tkinter to design beautiful GUIs Discover cross-platform development through minor customizations in your existing application Visualize graphs in real time as data comes in using Tkinter's animation capabilities Use PostgreSQL authentication to ensure data security for your application Write unit tests to avoid regressions when updating code Who this book is for This book will appeal to developers and programmers who would like to build GUI-based applications. Knowledge of Python is a prerequisite.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1788835883"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788835886"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Kn6RswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Kn6RswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=Kn6RswEACAAJ&dq=subject:python&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Kn6RswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_GUI_Programming_with_Tkinter.html?hl=&id=Kn6RswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kn6RswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JafgswEACAAJ",
+      "etag": "nfaxbY25hmA",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/JafgswEACAAJ",
+      "volumeInfo": {
+        "title": "Complex Network Analysis in Python",
+        "subtitle": "Recognize - Construct - Visualize - Analyze - Interpret",
+        "authors": [
+          "Dmitry Zinoviev"
+        ],
+        "publishedDate": "2018-01-29",
+        "description": "Construct, analyze, and visualize networks with networkx, a Python language module. Network analysis is a powerful tool you can apply to a multitude of datasets and situations. Discover how to work with all kinds of networks, including social, product, temporal, spatial, and semantic networks. Convert almost any real-world data into a complex network--such as recommendations on co-using cosmetic products, muddy hedge fund connections, and online friendships. Analyze and visualize the network, and make business decisions based on your analysis. If you're a curious Python programmer, a data scientist, or a CNA specialist interested in mechanizing mundane tasks, you'll increase your productivity exponentially. Complex network analysis used to be done by hand or with non-programmable network analysis tools, but not anymore! You can now automate and program these tasks in Python. Complex networks are collections of connected items, words, concepts, or people. By exploring their structure and individual elements, we can learn about their meaning, evolution, and resilience. Starting with simple networks, convert real-life and synthetic network graphs into networkx data structures. Look at more sophisticated networks and learn more powerful machinery to handle centrality calculation, blockmodeling, and clique and community detection. Get familiar with presentation-quality network visualization tools, both programmable and interactive--such as Gephi, a CNA explorer. Adapt the patterns from the case studies to your problems. Explore big networks with NetworKit, a high-performance networkx substitute. Each part in the book gives you an overview of a class of networks, includes a practical study of networkx functions and techniques, and concludes with case studies from various fields, including social networking, anthropology, marketing, and sports analytics. Combine your CNA and Python programming skills to become a better network analyst, a more accomplished data scientist, and a more versatile programmer. What You Need: You will need a Python 3.x installation with the following additional modules: Pandas (\u003e=0.18), NumPy (\u003e=1.10), matplotlib (\u003e=1.5), networkx (\u003e=1.11), python-louvain (\u003e=0.5), NetworKit (\u003e=3.6), and generalizesimilarity. We recommend using the Anaconda distribution that comes with all these modules, except for python-louvain, NetworKit, and generalizedsimilarity, and works on all major modern operating systems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1680502697"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781680502695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 233,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JafgswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JafgswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=JafgswEACAAJ&dq=subject:python&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JafgswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Complex_Network_Analysis_in_Python.html?hl=&id=JafgswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JafgswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TFDpvQEACAAJ",
+      "etag": "r2zPgmSb8lc",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/TFDpvQEACAAJ",
+      "volumeInfo": {
+        "title": "Deep Learning for Computer Vision with Python",
+        "subtitle": "Practitioner Bundle",
+        "authors": [
+          "Adrian Rosebrock"
+        ],
+        "publishedDate": "2017",
+        "description": "\"Practitioner Bundle: Perfect for readers who are ready to study deep learning in-depth, understand advanced techniques, and discover common best practices and rules of thumb.\" [trouvé sur la page de l'éditeur].",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1722487836"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781722487836"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Machine learning"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=TFDpvQEACAAJ&dq=subject:python&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TFDpvQEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Learning_for_Computer_Vision_with_P.html?hl=&id=TFDpvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TFDpvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZdLpvQEACAAJ",
+      "etag": "Nduhc9D1QSs",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/ZdLpvQEACAAJ",
+      "volumeInfo": {
+        "title": "Image Analysis, Classification and Change Detection in Remote Sensing",
+        "subtitle": "With Algorithms for Python, Fourth Edition",
+        "authors": [
+          "Morton John Canty"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2019",
+        "description": "The text is focused on the development and implementation of statistically motivated, data-driven techniques for digital image analysis of remotely sensed imagery and features a tight interweaving of statistical and machine learning theory with algorithms with computer codes. It develops statistical methods for the analysis of optical/infrared and synthetic aperture radar (SAR) imagery, including wavelet transformations, kernel methods for nonlinear classification, as well as an introduction to deep learning in the context of feed forward neural networks. The material is self-contained and illustrated with many programming examples, all of which can be conveniently run in a web browser. Each chapter concludes with exercises complementing or extending the material in the text. Numerous examples of programming the Google Earth Engine and TensorFlow APIs are given. New in the fourth edition is an in-depth treatment of a recent sequential change detection algorithm for polarimetric SAR image time series. The accompanying software consists of Python (open source) versions of all of the main image analysis algorithms, thus accessible to all readers with a computer and an Internet connection. Features Includes open source software and tools Presents easy, platform-independent software installation methods (Docker containerization) Concepts and algorithms are illustrated in Jupyter notebooks Utilizes freely accessible imagery via the Google Earth Engine Examines deep learning examples including a sound introduction to neural networks Provides many examples of cloud programming (Google Earth Engine API) SAR image time series. The accompanying software consists of Python (open source) versions of all of the main image analysis algorithms, thus accessible to all readers with a computer and an Internet connection. Features Includes open source software and tools Presents easy, platform-independent software installation methods (Docker containerization) Concepts and algorithms are illustrated in Jupyter notebooks Utilizes freely accessible imagery via the Google Earth Engine Examines deep learning examples including a sound introduction to neural networks Provides many examples of cloud programming (Google Earth Engine API)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1138613223"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781138613225"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "categories": [
+          "Image analysis"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZdLpvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZdLpvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=ZdLpvQEACAAJ&dq=subject:python&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ZdLpvQEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Image_Analysis_Classification_and_Change.html?hl=&id=ZdLpvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZdLpvQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O_heswEACAAJ",
+      "etag": "qZzxHKD0swo",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/O_heswEACAAJ",
+      "volumeInfo": {
+        "title": "Python Web Scraping Cookbook",
+        "authors": [
+          "Michael Heydt"
+        ],
+        "publishedDate": "2018-02-09",
+        "description": "Untangle your web scraping complexities and access web data with ease using Python scripts Key Features Hands-on recipes for advancing your web scraping skills to expert level One-stop solution guide to address complex and challenging web scraping tasks using Python Understand web page structures and collect data from a website with ease Book Description Python Web Scraping Cookbook is a solution-focused book that will teach you techniques to develop high-performance Scrapers, and deal with cookies, hidden form fields, Ajax-based sites and proxies. You'll explore a number of real-world scenarios where every part of the development or product life cycle will be fully covered. You will not only develop the skills to design reliable, high-performing data flows, but also deploy your codebase to Amazon Web Services (AWS). If you are involved in software engineering, product development, or data mining or in building data-driven products, you will find this book useful as each recipe has a clear purpose and objective. Right from extracting data from websites to writing a sophisticated web crawler, the book's independent recipes will be extremely helpful while on the job. This book covers Python libraries, requests, and BeautifulSoup. You will learn about crawling, web spidering, working with AJAX websites, and paginated items. You will also understand to tackle problems such as 403 errors, working with proxy, scraping images, and LXML. By the end of this book, you will be able to scrape websites more efficiently and deploy and operate your scraper in the cloud. What you will learn Use a variety of tools to scrape any website and data, including Scrapy and Selenium Master expression languages, such as XPath and CSS, and regular expressions to extract web data Deal with scraping traps such as hidden form fields, throttling, pagination, and different status codes Build robust scraping pipelines with SQS and RabbitMQ Scrape assets like image media and learn what to do when Scraper fails to run Explore ETL techniques of building a customized crawler, parser, and convert structured and unstructured data from websites Deploy and run your scraper as a service in AWS Elastic Container Service Who this book is for This book is ideal for Python programmers, web administrators, security professionals, and anyone who wants to perform web analytics. Familiarity with Python and basic understanding of web scraping will be useful to make the best of this book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1787285219"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787285217"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O_heswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O_heswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=O_heswEACAAJ&dq=subject:python&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=O_heswEACAAJ&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Python_Web_Scraping_Cookbook.html?hl=&id=O_heswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O_heswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GxKWdn7u4w8C",
+      "etag": "qRoKLlNekNk",
+      "selfLink": "https://content-books.googleapis.com/books/v1/volumes/GxKWdn7u4w8C",
+      "volumeInfo": {
+        "title": "Text Processing in Python",
+        "authors": [
+          "David Mertz"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2003",
+        "description": "bull; Demonstrates how Python is the perfect language for text-processing functions. bull; Provides practical pointers and tips that emphasize efficient, flexible, and maintainable approaches to text-processing challenges. bull; Helps programmers develop solutions for dealing with the increasing amounts of data with which we are all inundated.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0321112547"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321112545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 520,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GxKWdn7u4w8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GxKWdn7u4w8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=GxKWdn7u4w8C&printsec=frontcover&dq=subject:python&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GxKWdn7u4w8C&dq=subject:python&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Text_Processing_in_Python.html?hl=&id=GxKWdn7u4w8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GxKWdn7u4w8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
