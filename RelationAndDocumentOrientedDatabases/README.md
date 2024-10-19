@@ -21,4 +21,4 @@ By the end of this module, you will be able to:
     MO 7.6 Create maps with Folium and GeoJSON (supports CO1, CO2, CO3, CO4)
     MO 7.7 Create choropleths using data (supports CO1, CO2, CO3, CO4, CO5)
 
-Part of this work involves setting up a free tier mongodb account.
+Part of this work involves setting up a free tier mongodb account.  In a future update, I will add a sample of the data used to run the projects locally
