@@ -9,3 +9,4 @@ The realm of data science
 * NaturalLanguageProcessing-MachineLearning - Natural Language processing using TextBlob.  Machine Learning using scikit-learn.
 * RelationAndDocumentOrientedDatabases - Setting a mongoDB free tier account, analyzing a local json database.
 * AnalyzingAsteroidData - A study conducted to analyze the NASA Jet Propulsion small-body database of asteroid data.
+* MachineLearning - A group of studies that take the ideas and concepts from https://scikit-learn.org and explores them futher.
