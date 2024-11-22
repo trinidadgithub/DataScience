@@ -60,4 +60,4 @@ Now, combining all the libraries mentioned earlier, here’s the complete list o
 	11. SciPy: Scientific computations and advanced mathematical functions
 	
 These libraries together cover almost every aspect of the machine learning workflow, from data preprocessing and visualization to model building, training, and evaluation.  Also, these libraries  cover a wide range of machine learning tasks, from classical machine learning (scikit-learn) to cutting-edge deep learning (TensorFlow, PyTorch), as well as highly specialized libraries for boosting algorithms (XGBoost, LightGBM, CatBoost).
-![image](https://github.com/user-attachments/assets/e801c634-24ae-4901-b26a-76f5e49c686e)
+
