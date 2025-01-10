@@ -6,13 +6,13 @@ This project investigates the viability of asteroid mining by analyzing NASA's J
 ```bash
 │   README.md
 │   requirements.txt
-│   Trinidad-Marroquin-final_project-visual-1.pdf
 │
 ├───data
 │       Asteroid_Data.csv
 │
 ├───docs
 │       Report-TrinidadMarroquin.docx
+|       Trinidad-Marroquin-final_project-visual-1.pdf
 │
 ├───notebooks
 │       CapstoneProject-marroquin-trinidad.ipynb
