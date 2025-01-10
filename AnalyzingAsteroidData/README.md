@@ -36,7 +36,7 @@ To replicate or extend this study, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:trinidadgithub/DataScience.git
 
 2. **Install Depoendencies:**  
    Ensure you have Python installed.  Then navigate to the project root and install the required packages:  
