@@ -1,6 +1,6 @@
 Overview
 
-This module covers how to read from and write to externals files that follow common data format, such as CSV and JSON. CSV and JSON files play an important role in data science as most datasets are found in these formats. We will learn how CSV and JSON files are structured and organized. We will learn how to read in external data files, parse the data, and load them into Pandas DataFrames, which are common steps in starting data science projects using big data. We will learn additional DataFrame methods to assist us with bring data together from different sources as well as two additional Seaborn visualizations: strip plots and box plots. 
+This study covers how to read from and write to externals files that follow common data format, such as CSV and JSON. CSV and JSON files play an important role in data science as most datasets are found in these formats. We will learn how CSV and JSON files are structured and organized. We will learn how to read in external data files, parse the data, and load them into Pandas DataFrames, which are common steps in starting data science projects using big data. We will learn additional DataFrame methods to assist us with bring data together from different sources as well as two additional Seaborn visualizations: strip plots and box plots. 
 Learning Objectives
 By the end of course, you will be able to:
 
