@@ -6,3 +6,4 @@ prometheus-flask-exporter==0.20.3
 seaborn==0.12.2
 plotly==5.15.0
 jupyter==1.0.0
+
