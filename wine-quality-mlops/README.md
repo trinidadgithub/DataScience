@@ -33,7 +33,7 @@ K[GitHub Actions] --> G
 ```
 Getting Started
 �. Clone the repo: git clone https://github.com/trinidadgithub/DataScience.git
-�. View the EDA notebook: Google Colab Link (your-colab-link)
+�. View the EDA notebook: Google Colab Link (https://colab.research.google.com/drive/15_UCibwPZRopXiBSqgagXUcnof3xLBzU?usp=sharing)
 �. (Upcoming) Install dependencies: pip install -r requirements.txt
 Blog Post
 Follow my progress on my WordPress blog!
