@@ -1,9 +1,8 @@
-pandas==1.5.3
-scikit-learn==1.2.2
-mlflow==2.8.1
-flask==2.2.5
-prometheus-flask-exporter==0.20.3
-seaborn==0.12.2
-plotly==5.15.0
-jupyter==1.0.0
-
+pandas==2.2.2
+seaborn==0.13.2
+plotly==5.24.1
+scikit-learn==1.6.0
+mlflow==2.17.2
+flask==3.0.3
+prometheus-flask-exporter==0.23.1
+jupyter==1.1.1
