@@ -41,7 +41,7 @@ Clone the repo:bash
 
 ```bash
 git clone https://github.com/trinidadgithub/DataScience.git
-cd wine-quality-mlops
+cd WineQualityMachineLearningOPS
 ```
 
 2. View the EDA notebook:
