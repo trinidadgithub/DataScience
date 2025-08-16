@@ -79,13 +79,15 @@ python src/train.py
 ![pH Distribution](demo/pH_distribution.png)
 *Box plot showing pH distribution across quality scores.*
 
-### Blog Post
+*** Blog Post ***
 
-### Read about my EDA process and pipeline progress on my WordPress blog! 
+*** Read about my EDA process and pipeline progress on my WordPress blog! ***
 
-ContactGitHub: trinidadgithub
-LinkedIn: Your LinkedIn
+ContactGitHub: trinidadgithub 
 
-LicenseMIT License (LICENSE)
+LinkedIn: Your LinkedIn 
+
+#### 📄 License
+[MIT License](./LICENSE)
 
  
