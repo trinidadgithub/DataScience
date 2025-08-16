@@ -11,3 +11,4 @@ The realm of data science
 - [RelationAndDocumentOrientedDatabases](./RelationAndDocumentOrientedDatabases) - Setting a mongoDB free tier account, analyzing a local json database.
 - [AnalyzingAsteroidData](./AnalyzingAsteroidData) - A study conducted to analyze the NASA Jet Propulsion small-body database of asteroid data.
 - [MachineLearning](./MachineLearning) - A group of studies that take the ideas and concepts from https://scikit-learn.org and explores them futher.
+- [WineQualityMachineLearningOPS](./WineQualityMachineLearningOPS) - A study of wine quality versus alcolhol content implement machine learning pipeline operations.
